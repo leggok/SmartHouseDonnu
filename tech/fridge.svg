@@ -1,4 +1,6 @@
-    <symbol id='fridge' viewbox="0 0 60 60">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="60px" viewBox="0 0 60 60" version="1.1">    
+<symbol id='fridge' viewbox="0 0 60 60">
         <g>
             <path d="M43,7h-2c-0.552,0-1,0.447-1,1s0.448,1,1,1h2c0.552,0,1-0.447,1-1S43.552,7,43,7z"/>
             <path d="M14,22h-3v14h12V22h-3H14z M18,24v3h-2v-3H18z M21,24v10h-8V24h1v5h6v-5H21z"/>
@@ -10,3 +12,4 @@
                         		C8.417,58,8,57.583,8,57.07V42h44V57.07z M31,40V2h20.83C51.924,2,52,2.076,52,2.17V40H31z"/>
         </g>
     </symbol>
+</svg>
